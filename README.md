@@ -1,15 +1,29 @@
 **FRENCH**
-- 👋 Hello world, moi c'est **Julien Tavernier (@CaseReed)**
-- 👀 Je suis **Frontend Engineer**
-- 🌱 Je suis en train d'apprendre **Next.js**
-- 💞️ Je recherche à collaborer avec une **start-up/entreprise** pour travailler avec les tech's de demain (react, tailwindcss, etc..)
-- 📫 Vous pouvez me joindre ici : **julien.tavernier.pro@gmail.com**
-- 👋 Bye world, A bientôt !
+FRANÇAIS
+
+👋 Salut, moi c’est Julien Tavernier (@CaseReed)
+
+⚙️ Senior Frontend Engineer 
+🛠️ J’architecture des plateformes React/Next.js évolutives 
+🎨 Passionné par le design UI/UX 
+🤖 Enthousiaste IA & DevOps
+🚀 Ouvert aux collaborations sur des projets innovants 
+📍 Montréal, Québec, Canada 
+📫 Contact : julien.tavernier.pro@gmail.com
+
+À bientôt sur GitHub !
 
 **ENGLISH**
-- 👋 Hello word, I’m **Julien Tavernier (@CaseReed)**
-- 👀 I’m am **Frontend Engineer**
-- 🌱 I’m currently learning **Next.js**
-- 💞️ I'm looking to collaborate with a **start-up/enterprise** to work with the tech's of tomorrow (react, tailwind, etc..)
-- 📫 You can contact me here : **julien.tavernier.pro@gmail.com**
-- 👋 Bye world, goodbye !
+ENGLISH
+
+👋 Hi, I’m Julien Tavernier (@CaseReed)
+
+⚙️ Senior Frontend Engineer 
+🛠️ Architecting scalable React/Next.js platforms 
+🎨 UI/UX craftsmanship 
+🤖 AI & DevOps enthusiast 
+🚀 Open to working on innovative projects 
+📍 Montreal, Québec, Canada 
+📫 Contact: julien.tavernier.pro@gmail.com
+
+See you on GitHub!
